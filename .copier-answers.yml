@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+# https://copier.readthedocs.io/en/stable/updating/#never-change-the-answers-file-manually
+_commit: v1.3.2
+_src_path: gh:Master-Bw3/Hex-Casting-1.21.1-Addon-Template
+advanced: false
+description: Hex addon adding extra vessels for your mind to inhabit
+display_name: Hex Corpora Lapidea
+github_repo: hexstonebodies
+github_user: luucyf3r
+java_package: io.github.luucyf3r.hexstonebodies
+minecraft_version_in_mod_version: true
+mit_license: true
+mod_version: 1.0.0
+modid: hexstonebodies
